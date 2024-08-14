@@ -44,7 +44,7 @@ function endPattern() {
         message.textContent = 'Pattern correct!';
         message.style.color = 'green';
         // Redirect to another website after correct pattern
-        window.location.href = 'https://wa.link/3j462q'; // Ganti dengan URL tujuan
+        window.location.href = 'https://zikameki.github.io/section-nisvideo/'; // Ganti dengan URL tujuan
     } else {
         message.textContent = '𝗣𝗼𝗹𝗮 𝗺𝘂 𝗦𝗮𝗹𝗮𝗵!❌';
         message.style.color = 'red';
